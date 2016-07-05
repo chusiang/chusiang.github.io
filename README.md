@@ -1,6 +1,8 @@
-# Note | chusiang
+> 施工中 / 工事中 / Men Working ...
 
-See [https://github.com/chusiang/note/wiki][note].
+# Wiki
+
+Only [https://github.com/chusiang/chusiang.github.io/wiki][wiki], now.
 
 
-[note]: https://github.com/chusiang/note/wiki
+[wiki]: https://github.com/chusiang/chusiang.github.io/wiki
